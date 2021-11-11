@@ -2,4 +2,4 @@
 
 ## Change Log
 
-Adicionado o parâmetro $ignoreRecursionLimit, que retira a trava de recursão na chamado dos métodos.
+Adicionado o parâmetro $ignoreLimitRecursion, que retira a trava de recursão na chamado dos métodos.
