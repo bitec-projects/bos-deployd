@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": {
     "name": "Carlos Eduardo Bier"
   },
@@ -54,7 +54,7 @@
       "email": "eduardo.bier@referenceit.com.br"
     }
   ],
-  "name": "deployd-plus",
+  "name": "bos-deployd",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
