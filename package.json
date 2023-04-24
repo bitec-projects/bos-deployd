@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.1",
   "author": {
     "name": "Carlos Eduardo Bier"
   },
@@ -12,13 +12,13 @@
     "commander": "^2.11.0",
     "cookies": "^0.6.2",
     "corser": "^2.0.1",
-    "debug": "^2.6.8",
+    "debug": "^2.6.9",
     "doh": "0.0.4",
     "ejs": "^2.5.6",
-    "filed": "^0.1.0",
+    "filed-mimefix": "^0.1.3",
     "fs-extra": "^0.30.0",
     "mkdirp": "^0.5.1",
-    "mongodb": "^2.2.30",
+    "mongodb": "5.1.0",
     "opener": "^1.4.3",
     "qs": "^6.5.0",
     "request": "^2.74.0",
@@ -31,7 +31,7 @@
     "underscore": "^1.8.3",
     "validation": "0.0.1"
   },
-  "description": "a fork of deployd with implementations and fixes",
+  "description": "bos deployd é um fork do pacote deployd com adequações para o mongodb 5",
   "devDependencies": {
     "chai": "*",
     "less": "*",
@@ -42,25 +42,19 @@
     "sinon": "~1.17.5"
   },
   "directories": {},
-  "engines": {
-    "node": ">= 0.12.0"
-  },
   "homepage": "",
   "license": "Apache-2.0",
   "main": "index",
   "maintainers": [
     {
-      "name": "biernaweb",
-      "email": "eduardo.bier@referenceit.com.br"
+      "name": "eduardo.bier",
+      "email": "eduardo.bier@bitec.dev.br"
     }
   ],
   "name": "bos-deployd",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
-    "url": "git+https://referenceit.visualstudio.com/deployd.plus/_git/deployd.plus"
-  },
-  "scripts": {
-    "test": "mocha --timeout 5000 && cd test-app && node runtests.js"
+    "url": "git+https://github.com/bier-web/bos-deployd.git"
   }
 }
