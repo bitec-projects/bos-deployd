@@ -1,10 +1,7 @@
 {
-  "version": "1.1",
+  "version": "1.2.1",
   "author": {
     "name": "Carlos Eduardo Bier"
-  },
-  "bin": {
-    "dpd": "bin/dpd"
   },
   "dependencies": {
     "async": "^2.5.0",
