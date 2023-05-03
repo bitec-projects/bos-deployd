@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "author": {
     "name": "Carlos Eduardo Bier"
   },
@@ -40,7 +40,6 @@
   },
   "directories": {},
   "homepage": "",
-  "license": "Apache-2.0",
   "main": "index",
   "maintainers": [
     {
@@ -52,6 +51,6 @@
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
-    "url": "git+https://github.com/bier-web/bos-deployd.git"
+    "url": "git+https://github.com/eduardo-bier-bos/bos-deployd.git"
   }
 }
