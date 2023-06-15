@@ -29,3 +29,9 @@ Bier
         }
     });
 ---
+
+# 15-jun-2023
+
+Bier
+
+- Adicionado recursos de $ignoreLimitRecursion que estava ausente.
