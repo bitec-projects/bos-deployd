@@ -42,3 +42,4 @@ Bier
 
 - Adicionado recursos de bosAction que estava ausente.
 - Ajuste em ignoreLimitRecursion;
+- Ignorando limitRecursion para testar funcionamento e desempenho
