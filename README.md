@@ -35,3 +35,9 @@ Bier
 Bier
 
 - Adicionado recursos de $ignoreLimitRecursion que estava ausente.
+
+# 16-jun-2023
+
+Bier
+
+- Adicionado recursos de bosAction que estava ausente.
